@@ -59,4 +59,4 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my free time, I do olympic weightlifting and read tech articals.
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](vishwafernando.vf@gmail.com)
+- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vishwafernando.vf@gmail.com)
