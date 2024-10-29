@@ -23,7 +23,7 @@
     />
   </a>
  
-  <a href="https://www.youtube.com/@vishwavf" target="_blank">
+  <a href="https://www.youtube.com/@vishwavf?sub_confirmation=1" target="_blank">
     <img
       src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
       alt="Youtube"
