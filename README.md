@@ -40,12 +40,13 @@
 </p>
 </div>
 
-<center><a href="https://komarev.com/ghpvc/?username=vishwavf">
+<a href="https://komarev.com/ghpvc/?username=vishwavf">
   <img
+    align="center"
     src="https://komarev.com/ghpvc/?username=vishwavf&label=Visitors&color=0e75b6&style=flat"
     alt="Profile visitor"
   />
-</a></center>
+</a>
 
 
 ---
