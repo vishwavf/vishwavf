@@ -37,16 +37,18 @@
       alt="Vishwa"
     />
   </a>
-</p>
-</div>
 
-<a href="https://komarev.com/ghpvc/?username=vishwavf">
+  <br>
+  <a href="https://komarev.com/ghpvc/?username=vishwavf">
   <img
-    align="center"
     src="https://komarev.com/ghpvc/?username=vishwavf&label=Visitors&color=0e75b6&style=flat"
     alt="Profile visitor"
   />
 </a>
+</p>
+</div>
+
+
 
 
 ---
