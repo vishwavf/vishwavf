@@ -40,12 +40,23 @@
 </p>
 </div>
 
+---
 
-## About ME
+### :woman_technologist: About Me :
 <p>
   <img
     align="right"
     width="350"
-    src="/assests/programming.gif"
+    src="/assests/giphy.gif"
     alt="Coding gif"
   />
+</p>
+
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Srilanka
+- :telescope: I love to write code and contributing to frontend and backend for building web applications.
+
+- :seedling: Enjoy to do programming and explore content.
+
+- :zap: In my free time, I do olympic weightlifting and read tech articals.
+
+- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](vishwafernando.vf@gmail.com)
