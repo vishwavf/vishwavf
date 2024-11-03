@@ -59,7 +59,7 @@
     src="/assests/giphy.gif"
     alt="Coding gif"
   />
-</p>
+</p></br>
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Srilanka
 - :telescope: I love to write code and contributing to frontend and backend for building web applications.
