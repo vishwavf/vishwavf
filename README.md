@@ -52,7 +52,7 @@
 ---
 
 ### :woman_technologist: About Me :
-<p>
+<br><p>
   <img
     align="right"
     width="350"
